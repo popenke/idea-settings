@@ -1,0 +1,24 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
+        <mark key="[" line="5" column="31" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
