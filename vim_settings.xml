@@ -12,16 +12,62 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491227404271">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491226190927">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="69" column="82" />
+        <mark key="." line="69" column="82" />
+        <mark key="^" line="69" column="82" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">CkBtZWRpYSBzY3JlZW4gYW5kIChtaW4taGVpZ2h0OiA3NjlweCkgewogIC5iaS1zY3JvbGxhYmxlIHsKICAgIG92ZXJmbG93LXk6IHNjcm9sbCAhaW1wb3J0YW50OwogICAgaGVpZ2h0OiA2MHZoICFpbXBvcnRhbnQ7CiAgfQp9</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAuYmktZGV0YWlsIHsKICAgIGhlaWdodDogOTAlOwogIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
