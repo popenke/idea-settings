@@ -1,10 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/app.module.ts" timestamp="1491223605534">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
