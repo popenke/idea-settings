@@ -18,50 +18,53 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491310343559">
-        <mark key="[" line="71" column="69" />
-        <mark key="]" line="73" column="35" />
-        <mark key="." line="73" column="35" />
-        <mark key="^" line="73" column="35" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491312459645">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="51" column="21" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>n</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgLmJpLWRldGFpbCB7CiAgICBoZWlnaHQ6IDc3dmg7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWkgYmFzaWMgc2VnbWVudCBsZWZ0IGFsaWduZWQgdGV4dCI+CiAgICAgICAgPGg0PgogICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgIEPDom1lcmFzOgogICAgICAgIDwvaDQ+CiAgICAgICAgPHA+CiAgICAgICAgICA8IS0te3tlbnZpcm9ubWVudC5kZXNjcmlwdGlvbn19LS0+CiAgICAgICAgICA8IS0tVE9ETyBSZW1vdmUgcGxhY2Vob2xkZXIgdGV4dC0tPgogICAgICAgICAgNAogICAgICAgIDwvcD4KICAgICAgPC9kaXY+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogOTMlOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+        <text encoding="base64">ICAgICAgICAgIEPDom1lcmFzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIEFlbmVhbiBpZCBlcmF0IGFjIGxpYmVybyB2ZW5lbmF0aXMgZWxlaWZlbmQgc2VkIGZlcm1lbnR1bSBudW5jLiBWZXN0aWJ1bHVtIG1ldHVzIHJpc3VzLCBtYXhpbXVzIGV0IGVyYXQgbmVjLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZlbmVuYXRpcyBwb3J0dGl0b3Igb3JjaS4gTWFlY2VuYXMgZGFwaWJ1cyB2aXZlcnJhIGV4LCBhIGJsYW5kaXQgbnVsbGEgYWxpcXVldCBxdWlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRlc3Q6Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAuYmktZGV0YWlsIHsKICAgIGhlaWdodDogOTAlOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogOTMlOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAuYmktZGV0YWlsIHsKICAgIGhlaWdodDogOTAlOwogIH0=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>5</text>
       </register>
     </registers>
     <search>
