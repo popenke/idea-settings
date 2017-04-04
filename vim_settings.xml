@@ -18,20 +18,20 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491312459645">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="51" column="21" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491313236627">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>this.c</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>this.c</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWkgYmFzaWMgc2VnbWVudCBsZWZ0IGFsaWduZWQgdGV4dCI+CiAgICAgICAgPGg0PgogICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgIEPDom1lcmFzOgogICAgICAgIDwvaDQ+CiAgICAgICAgPHA+CiAgICAgICAgICA8IS0te3tlbnZpcm9ubWVudC5kZXNjcmlwdGlvbn19LS0+CiAgICAgICAgICA8IS0tVE9ETyBSZW1vdmUgcGxhY2Vob2xkZXIgdGV4dC0tPgogICAgICAgICAgNAogICAgICAgIDwvcD4KICAgICAgPC9kaXY+</text>
