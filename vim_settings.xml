@@ -12,17 +12,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491229145243">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="12" />
-        <mark key="." line="26" column="12" />
-        <mark key="^" line="26" column="191" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491304934102">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491226190927">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="69" column="82" />
-        <mark key="." line="69" column="82" />
-        <mark key="^" line="69" column="82" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491305399445">
+        <mark key="[" line="71" column="69" />
+        <mark key="]" line="73" column="35" />
+        <mark key="." line="73" column="35" />
+        <mark key="^" line="73" column="35" />
       </file>
     </filemarks>
     <jumps />
@@ -31,34 +31,37 @@
         <text encoding="base64">CiAgLmJpLWRldGFpbCB7CiAgICBoZWlnaHQ6IDc3dmg7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogOTMlOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>90vh</text>
+        <text>5</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAuYmktZGV0YWlsIHsKICAgIGhlaWdodDogOTAlOwogIH0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>90vh</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
