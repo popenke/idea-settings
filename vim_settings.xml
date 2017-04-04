@@ -18,50 +18,54 @@
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491313236627">
-        <mark key="[" line="51" column="16" />
-        <mark key="]" line="51" column="15" />
-        <mark key="." line="51" column="15" />
-        <mark key="^" line="51" column="15" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491314641860">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491314366915">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>this.c</text>
+        <text>environment</text>
       </register>
       <register name="-" type="4">
-        <text>this.c</text>
+        <text>environment</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idWkgYmFzaWMgc2VnbWVudCBsZWZ0IGFsaWduZWQgdGV4dCI+CiAgICAgICAgPGg0PgogICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgIEPDom1lcmFzOgogICAgICAgIDwvaDQ+CiAgICAgICAgPHA+CiAgICAgICAgICA8IS0te3tlbnZpcm9ubWVudC5kZXNjcmlwdGlvbn19LS0+CiAgICAgICAgICA8IS0tVE9ETyBSZW1vdmUgcGxhY2Vob2xkZXIgdGV4dC0tPgogICAgICAgICAgNAogICAgICAgIDwvcD4KICAgICAgPC9kaXY+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIEPDom1lcmFzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tVE9ETyBSZW1vdmUgcGxhY2Vob2xkZXIgdGV4dC0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFlbmVhbiBpZCBlcmF0IGFjIGxpYmVybyB2ZW5lbmF0aXMgZWxlaWZlbmQgc2VkIGZlcm1lbnR1bSBudW5jLiBWZXN0aWJ1bHVtIG1ldHVzIHJpc3VzLCBtYXhpbXVzIGV0IGVyYXQgbmVjLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZlbmVuYXRpcyBwb3J0dGl0b3Igb3JjaS4gTWFlY2VuYXMgZGFwaWJ1cyB2aXZlcnJhIGV4LCBhIGJsYW5kaXQgbnVsbGEgYWxpcXVldCBxdWlzLgo=</text>
+        <text encoding="base64">ICAvLyBwdWJsaWMgcmVzdWx0czogQXJyYXk8Q291bnRlcj4gPSBbXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRlc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEPDom1lcmFzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogOTMlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIEFlbmVhbiBpZCBlcmF0IGFjIGxpYmVybyB2ZW5lbmF0aXMgZWxlaWZlbmQgc2VkIGZlcm1lbnR1bSBudW5jLiBWZXN0aWJ1bHVtIG1ldHVzIHJpc3VzLCBtYXhpbXVzIGV0IGVyYXQgbmVjLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZlbmVuYXRpcyBwb3J0dGl0b3Igb3JjaS4gTWFlY2VuYXMgZGFwaWJ1cyB2aXZlcnJhIGV4LCBhIGJsYW5kaXQgbnVsbGEgYWxpcXVldCBxdWlzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBib2R5OmJlZm9yZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRlc3Q6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogOTMlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAuYmktZGV0YWlsIHsKICAgIGhlaWdodDogOTAlOwogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
