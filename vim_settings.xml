@@ -12,15 +12,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/create/steps/third-step/third-step.component.ts" timestamp="1491326739337" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491329786060">
+        <mark key="[" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491330507249">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBwdWJsaWMgcmVzdWx0czogQXJyYXk8Q291bnRlcj4gPSBbXTsgIC8vIFRPRE8gaXMgdGhpcyBiZWluZyB1c2VkPwo=</text>
+      <register name="&quot;" type="4">
+        <text>private router: R</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private router: R</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGJhc2ljIHNlZ21lbnQgbGVmdCBhbGlnbmVkIHRleHQiPgogICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgICAgICBDw6JtZXJhczoKICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPHAgW3N0eWxlLmZvbnQtd2VpZ2h0XT0idGhpcy5lbnZpcm9ubWVudC5jYW1zLmxlbmd0aCA/ICdib2xkJyA6ICdub3JtYWwnIj4KICAgICAgICAgICAgICB7e3RoaXMuZW52aXJvbm1lbnQuY2Ftcy5sZW5ndGh9fQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4=</text>
