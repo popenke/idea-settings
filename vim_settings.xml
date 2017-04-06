@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/app.module.ts" timestamp="1491223605534">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/app.module.ts" timestamp="1491483208404">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491411025423">
         <mark key="[" line="9" column="0" />
@@ -36,6 +36,9 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/create/create.module.ts" timestamp="1491483281103">
+        <mark key="[" line="49" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491413914901">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="56" />
@@ -46,40 +49,40 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGV0YWlsTW9kYWxDb21wb25lbnQgfSBmcm9tICcuL2NvcmUvZW52aXJvbm1lbnQtZGV0YWlsL2RldGFpbC1tb2RhbC9kZXRhaWwtbW9kYWwuY29tcG9uZW50JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>bi-hand</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGJhc2ljIHNlZ21lbnQgbGVmdCBhbGlnbmVkIHRleHQiPgogICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgICAgICBDw6JtZXJhczoKICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPHAgW3N0eWxlLmZvbnQtd2VpZ2h0XT0idGhpcy5lbnZpcm9ubWVudC5jYW1zLmxlbmd0aCA/ICdib2xkJyA6ICdub3JtYWwnIj4KICAgICAgICAgICAgICB7e3RoaXMuZW52aXJvbm1lbnQuY2Ftcy5sZW5ndGh9fQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRGV0YWlsTW9kYWxDb21wb25lbnQgfSBmcm9tICcuL2NvcmUvZW52aXJvbm1lbnQtZGV0YWlsL2RldGFpbC1tb2RhbC9kZXRhaWwtbW9kYWwuY29tcG9uZW50JzsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAvLyBzdGF0aWMgZm9yUm9vdChhY3RpdmF0ZWRSb3V0ZTogUm91dGVyTW9kdWxlKTpNb2R1bGVXaXRoUHJvdmlkZXJzIHsKICAvLyAgIGNvbnNvbGUubG9nKGFjdGl2YXRlZFJvdXRlKTsKICAvLyAgIHJldHVybiB7CiAgLy8gICAgIG5nTW9kdWxlOiBSZXN1bHRNb2R1bGUsCiAgLy8gICAgIHByb3ZpZGVyczpbXQogIC8vICAgfTsKICAvLwogIC8vIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">LmJpLWhhbmQgZGR7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmJpLWhhbmQgZGR7fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LmJpLXBvaW50ZXIgewogIGN1cnNvcjogaGFuZDsKfQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBwdWJsaWMgcmVzdWx0czogQXJyYXk8Q291bnRlcj4gPSBbXTsgIC8vIFRPRE8gaXMgdGhpcyBiZWluZyB1c2VkPwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LmJpLXBvaW50ZXIgewogIGN1cnNvcjogaGFuZDsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
