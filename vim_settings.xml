@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1491413068246">
@@ -20,11 +20,10 @@
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/core.module.ts" timestamp="1491575029094">
         <mark key="[" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/detail-modal/detail-modal.component.ts" timestamp="1491586246773">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="11" column="46" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/detail-modal/detail-modal.component.ts" timestamp="1491589523664">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/shared/empty-list/empty-list.component.html" timestamp="1491411305719">
         <mark key="[" line="4" column="29" />
@@ -36,17 +35,17 @@
         <mark key="]" line="49" column="22" />
         <mark key="." line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491585418014">
-        <mark key="[" line="81" column="35" />
-        <mark key="]" line="80" column="51" />
-        <mark key="^" line="80" column="68" />
-        <mark key="." line="80" column="51" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491589964819">
+        <mark key="[" line="80" column="62" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="81" column="46" />
+        <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491577019664">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491589940519">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
         <mark key="[" line="5" column="31" />
@@ -70,38 +69,40 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRoaXMu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGJpLWRldGFpbC1tb2RhbCBbc2hvd109InNob3dNb2RhbCIgKG9uQ2FuY2VsKT0ibG9nZ2VyKCkiPjwvYmktZGV0YWlsLW1vZGFsPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXMu</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGJhc2ljIHNlZ21lbnQgbGVmdCBhbGlnbmVkIHRleHQiPgogICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgICAgICBDw6JtZXJhczoKICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPHAgW3N0eWxlLmZvbnQtd2VpZ2h0XT0idGhpcy5lbnZpcm9ubWVudC5jYW1zLmxlbmd0aCA/ICdib2xkJyA6ICdub3JtYWwnIj4KICAgICAgICAgICAgICB7e3RoaXMuZW52aXJvbm1lbnQuY2Ftcy5sZW5ndGh9fQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">PGJpLWRldGFpbC1tb2RhbCBbc2hvd109InNob3dNb2RhbCIgKG9uQ2FuY2VsKT0ibG9nZ2VyKCkiPjwvYmktZGV0YWlsLW1vZGFsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICQoJy51aS5tb2RhbCcpCiAgICAgIC5tb2RhbCgnc2hvdycpCiAgICA7</text>
+        <text>function qualquer() {
+      this.cancel();
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzaG93Q29uZmlybWF0aW9uKCkgewoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uKCkgewogICAgICAgICAgIHRoaXMub25DYW5jZWwoKS5lbWl0KCk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICQoJy51aS5tb2RhbCcpCiAgICAgIC5tb2RhbCgnc2hvdycpCiAgICA7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICQoJy51aS5tb2RhbCcpCiAgICAgIC5tb2RhbCgnc2hvdycpCiAgICA7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVjbGFyZSBjb25zdCAkOwo=</text>
+        <text encoding="base64">ICBzaG93Q29uZmlybWF0aW9uKCkgewoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
