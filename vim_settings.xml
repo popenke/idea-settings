@@ -6,19 +6,11 @@
       <file name="/Dummy.txt" timestamp="1491413068246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
-        <mark key="[" line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/app.module.ts" timestamp="1491483208404">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491411025423">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/result/result.module.ts" timestamp="1491412218855">
         <mark key="[" line="27" column="0" />
@@ -28,11 +20,11 @@
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/core.module.ts" timestamp="1491575029094">
         <mark key="[" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/shared/empty-list/empty-list.component.css" timestamp="1491411574061">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/detail-modal/detail-modal.component.ts" timestamp="1491576839143">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/shared/empty-list/empty-list.component.html" timestamp="1491411305719">
         <mark key="[" line="4" column="29" />
@@ -44,55 +36,72 @@
         <mark key="]" line="49" column="22" />
         <mark key="." line="49" column="22" />
       </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491577229865">
+        <mark key="[" line="80" column="18" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491577019664">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/create/file-drop/file-drop.component.html" timestamp="1489699256824">
+        <mark key="[" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.css" timestamp="1491411025423">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/shared/empty-list/empty-list.component.css" timestamp="1491411574061">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/detail-modal/detail-modal.component.html" timestamp="1491575291572">
         <mark key="[" line="24" column="6" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.html" timestamp="1491575565992">
-        <mark key="^" line="43" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/environment-detail.component.ts" timestamp="1491575916498">
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IChjbGljayk9IkV2ZW50RW1pdHRlcigpIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChjbGljayk9IkV2ZW50RW1pdHRlcigpIg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGJhc2ljIHNlZ21lbnQgbGVmdCBhbGlnbmVkIHRleHQiPgogICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgICAgICBDw6JtZXJhczoKICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPHAgW3N0eWxlLmZvbnQtd2VpZ2h0XT0idGhpcy5lbnZpcm9ubWVudC5jYW1zLmxlbmd0aCA/ICdib2xkJyA6ICdub3JtYWwnIj4KICAgICAgICAgICAgICB7e3RoaXMuZW52aXJvbm1lbnQuY2Ftcy5sZW5ndGh9fQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9wPgo=</text>
+        <text encoding="base64">ZGVjbGFyZSBjb25zdCAkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXRhaWwtbW9kYWwgd29ya3MhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHA+Cg==</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRGV0YWlsTW9kYWxDb21wb25lbnQgfSBmcm9tICcuL2NvcmUvZW52aXJvbm1lbnQtZGV0YWlsL2RldGFpbC1tb2RhbC9kZXRhaWwtbW9kYWwuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXRhaWwtbW9kYWwgd29ya3MhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHA+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvLyBzdGF0aWMgZm9yUm9vdChhY3RpdmF0ZWRSb3V0ZTogUm91dGVyTW9kdWxlKTpNb2R1bGVXaXRoUHJvdmlkZXJzIHsKICAvLyAgIGNvbnNvbGUubG9nKGFjdGl2YXRlZFJvdXRlKTsKICAvLyAgIHJldHVybiB7CiAgLy8gICAgIG5nTW9kdWxlOiBSZXN1bHRNb2R1bGUsCiAgLy8gICAgIHByb3ZpZGVyczpbXQogIC8vICAgfTsKICAvLwogIC8vIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRGV0YWlsTW9kYWxDb21wb25lbnQgfSBmcm9tICcuL2NvcmUvZW52aXJvbm1lbnQtZGV0YWlsL2RldGFpbC1tb2RhbC9kZXRhaWwtbW9kYWwuY29tcG9uZW50JzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
