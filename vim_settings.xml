@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1491413068246">
@@ -24,6 +24,12 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/modal/environment-modal.component.html" timestamp="1491995979293">
+        <mark key="[" line="8" column="93" />
+        <mark key="]" line="8" column="93" />
+        <mark key="." line="8" column="93" />
+        <mark key="^" line="8" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/shared/empty-list/empty-list.component.html" timestamp="1491411305719">
         <mark key="[" line="4" column="29" />
@@ -61,6 +67,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/modal/environment-modal.component.ts" timestamp="1491995286372">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/visionbi/src/app/core/environment-detail/detail-modal/detail-modal.component.html" timestamp="1491585270260">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
@@ -69,43 +81,43 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGJpLWRldGFpbC1tb2RhbCBbc2hvd109InNob3dNb2RhbCIgKG9uQ2FuY2VsKT0ibG9nZ2VyKCkiPjwvYmktZGV0YWlsLW1vZGFsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9InVpIGJhc2ljIHNlZ21lbnQgbGVmdCBhbGlnbmVkIHRleHQiPgogICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgPCEtLVRPRE8gUmVtb3ZlIHBsYWNlaG9sZGVyIHRleHQtLT4KICAgICAgICAgICAgICBDw6JtZXJhczoKICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPHAgW3N0eWxlLmZvbnQtd2VpZ2h0XT0idGhpcy5lbnZpcm9ubWVudC5jYW1zLmxlbmd0aCA/ICdib2xkJyA6ICdub3JtYWwnIj4KICAgICAgICAgICAgICB7e3RoaXMuZW52aXJvbm1lbnQuY2Ftcy5sZW5ndGh9fQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJpLWRldGFpbC1tb2RhbCBbc2hvd109InNob3dNb2RhbCIgKG9uQ2FuY2VsKT0ibG9nZ2VyKCkiPjwvYmktZGV0YWlsLW1vZGFsPgo=</text>
+        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9InVpIHByaW1hcnkgYXBwcm92ZSBidXR0b24iIChjbGljayk9ImNvbmZpcm0oKSIgW2Rpc2FibGVkXT0idHJ1ZSI+Y29uZmlybWFyPC9idXR0b24+Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIDxidXR0b24gY2xhc3M9InVpIHByaW1hcnkgYXBwcm92ZSBidXR0b24iIChjbGljayk9ImNvbmZpcm0oKSIgW2Rpc2FibGVkXT0idGVzdG5hbWUiPmNvbmZpcm1hcjwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PGJpLWRldGFpbC1tb2RhbCBbc2hvd109InNob3dNb2RhbCIgKG9uQ2FuY2VsKT0ibG9nZ2VyKCkiPjwvYmktZGV0YWlsLW1vZGFsPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>function qualquer() {
       this.cancel();
     }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGZ1bmN0aW9uKCkgewogICAgICAgICAgIHRoaXMub25DYW5jZWwoKS5lbWl0KCk7</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICQoJy51aS5tb2RhbCcpCiAgICAgIC5tb2RhbCgnc2hvdycpCiAgICA7</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBzaG93Q29uZmlybWF0aW9uKCkgewoK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
